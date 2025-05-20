@@ -83,7 +83,5 @@ Don't forget to:
 
 ---
 
-## 📌 Tags
 
-`#PowerBI` `#DataAnalytics` `#DataVisualization` `#DashboardDesign` `#SalesAnalysis` `#RetailInsights`
 
