@@ -2,7 +2,7 @@
 
 Welcome to my Power BI project that dives deep into Blinkit's retail sales data. This interactive dashboard offers a comprehensive analysis of sales performance across various dimensions like outlet type, size, location, item categories, and fat content.
 
-![Blinkit Dashboard Screenshot](ccb580ee-54a1-45f1-9423-d6fed1826769.png)
+![Blinkit Dashboard Screenshot](Dashboard.png)
 
 ---
 
