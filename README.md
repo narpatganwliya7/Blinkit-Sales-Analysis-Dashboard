@@ -51,7 +51,7 @@ To analyze Blinkit's sales data and derive actionable insights using an interact
 
 ## 📽 Demo Preview
 
-> [Insert GIF or link to a short dashboard walkthrough video here if available]
+> [h](Power BI Dashboard.mp4)
 
 ---
 
